@@ -3,7 +3,7 @@ layout: post
 title: La Habra Website Design
 permalink: /la-habra-website-design/
 date: 2020-11-11
-summary: Get your local business online today. I'm a local La Habra, California website designer. I specialize in WordPress websites.
+summary: Get your business online, work with a local website designer in La Habra, Ca. WordPress specialist.
 ---
 
 Are you looking for website design services in [La Habra, California](https://en.wikipedia.org/wiki/La_Habra,_California)?
@@ -64,3 +64,22 @@ Without any context to what you do, who you are, and where your at the chances o
 
 I'll help you set up a website that should help you start getting customers. On top of that I'll also show you how to post to make updating your website.
 
+### Adding WordPress Functionality
+
+Do you need to add any of the following features or functions to your WordPress website
+
+- [Contact Forms](contact-forms.md)
+- Price Quote Calculator
+- Appointment Calendar
+- Website Analytics
+- User Login
+- Email Auto Replying
+- Weekly Newsletter
+
+
+
+### SEO (Search Engine Optimization)
+
+Are you interested in your website ranking higher in the search engine results, of course you are!
+
+I can help you find keywords and create content for your website.  More content means there's a higher chance of you coming up as a result for a google search.
